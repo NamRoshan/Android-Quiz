@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Career Quiz</string>
+    <string name="action_sync">Sync</string>
+    <string name="str_again">Play Again</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="Sync">Developers Profile</string>
+</resources>

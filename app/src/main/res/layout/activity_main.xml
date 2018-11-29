@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.MainActivity"
+    android:background="@drawable/quickbackground">
+
+           <TextView
+
+            android:id="@+id/tv_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:text="Career Quiz"
+            android:textColor="@android:color/black"
+            android:textSize="50sp" />
+
+
+    <ImageView
+
+        android:id="@+id/iv_trophy"
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_heading"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/trophy" />
+        <TextView
+            android:id="@+id/text_View_highscore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_below="@+id/iv_trophy"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:text="High Score: 0"
+            android:textColor="@android:color/black"
+            android:textSize="30sp" />
+
+        <Button
+            android:shadowColor="@color/colorPrimary"
+             android:textStyle="bold"
+            android:textColor="#96005a"
+            android:textSize="30sp"
+            android:background="@drawable/buttonsytle1"
+            android:layout_below="@+id/text_View_highscore"
+            android:id="@+id/button_start_quiz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Start Quiz" />
+
+        <EditText
+
+            android:id="@+id/et_no_of_question"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button_start_quiz"
+            android:layout_marginTop="20dp"
+            android:inputType="number"
+            android:textSize="20sp" />
+
+
+
+
+    </RelativeLayout>
+

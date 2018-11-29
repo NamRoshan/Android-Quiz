@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a07eae511733fadbaae3244275a1b673\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\da5d15621817d56e6ce05e0148dcbffe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\45bc0e128ff4f9ca778a31cc6d64f458\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ee60cb466ab3efecb11711dfc599d03d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9eb976e081e11f3631d86a8f45b371f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\978ef837d5603d0472e772c6435f3fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\091fee9196600cb96f6ef8d25a92ed03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0bea1e5a9d8083e1979bd186c759f281\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cd9b1239d2cc53b82346f867b3a69021\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cee7509679c4755df4f00a00a55fb218\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69930e3e793ee847747c06b1782d9b52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7fb8ba724a7df81444ef1fefacdf1635\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b8fa82fb2579c5211f3412653e1d010\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b1d0d847a3ad8b1b1dbbbde6d75a1eb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d9a7a801f6c65e2d6cb1eb7acd2f3a7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\46a25784a0847d25a0cf4c3c2b102ca6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aeb5f269993d2ee32e0a65fcc8abfaf6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db114db45fda6dce39037dc48b93826e\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\45bc0e128ff4f9ca778a31cc6d64f458\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\45bc0e128ff4f9ca778a31cc6d64f458\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.curiousca.squiz.Activities.SplashScreen
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:15:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.curiousca.squiz.Activities.QuizActivity
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:23:9-24:51
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.curiousca.squiz.Activities.ResultActivity
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:25:9-26:51
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:25:19-60
+activity#com.curiousca.squiz.Activities.MainActivity
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:27:9-28:51
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:27:19-58
+activity#com.curiousca.squiz.RecyclerView.RecyclerViewActivity
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:29:9-30:51
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:29:19-68
+activity#com.curiousca.squiz.Activities.DevelopersProfile
+ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:31:9-32:61
+	android:screenOrientation
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml:31:19-63
+uses-sdk
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a07eae511733fadbaae3244275a1b673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a07eae511733fadbaae3244275a1b673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\da5d15621817d56e6ce05e0148dcbffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\da5d15621817d56e6ce05e0148dcbffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\45bc0e128ff4f9ca778a31cc6d64f458\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\45bc0e128ff4f9ca778a31cc6d64f458\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ee60cb466ab3efecb11711dfc599d03d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ee60cb466ab3efecb11711dfc599d03d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9eb976e081e11f3631d86a8f45b371f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9eb976e081e11f3631d86a8f45b371f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\978ef837d5603d0472e772c6435f3fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\978ef837d5603d0472e772c6435f3fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\091fee9196600cb96f6ef8d25a92ed03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\091fee9196600cb96f6ef8d25a92ed03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0bea1e5a9d8083e1979bd186c759f281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0bea1e5a9d8083e1979bd186c759f281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cd9b1239d2cc53b82346f867b3a69021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cd9b1239d2cc53b82346f867b3a69021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cee7509679c4755df4f00a00a55fb218\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cee7509679c4755df4f00a00a55fb218\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69930e3e793ee847747c06b1782d9b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69930e3e793ee847747c06b1782d9b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7fb8ba724a7df81444ef1fefacdf1635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7fb8ba724a7df81444ef1fefacdf1635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b8fa82fb2579c5211f3412653e1d010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b8fa82fb2579c5211f3412653e1d010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b1d0d847a3ad8b1b1dbbbde6d75a1eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b1d0d847a3ad8b1b1dbbbde6d75a1eb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d9a7a801f6c65e2d6cb1eb7acd2f3a7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d9a7a801f6c65e2d6cb1eb7acd2f3a7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\46a25784a0847d25a0cf4c3c2b102ca6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\46a25784a0847d25a0cf4c3c2b102ca6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aeb5f269993d2ee32e0a65fcc8abfaf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aeb5f269993d2ee32e0a65fcc8abfaf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db114db45fda6dce39037dc48b93826e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roshan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db114db45fda6dce39037dc48b93826e\AndroidManifest.xml:20:5-44
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		ADDED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DBackup\android\MainQuiz\career quiz\app\src\main\AndroidManifest.xml
